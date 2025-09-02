@@ -14,7 +14,8 @@
       "Bash(git push:*)",
       "Bash(git config:*)",
       "Bash(where gh)",
-      "Bash(vercel:*)"
+      "Bash(vercel:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": [],
     "ask": []
